@@ -1,4 +1,4 @@
-<div> 
+<div align="center"> 
     <img style="width: 43% !important;"
         src="https://github-readme-stats.vercel.app/api?username=LiDingyiii&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img style="width: 56% !important;"
