@@ -1,8 +1,8 @@
 <div align="center"> 
     <img style="width: 44% !important;"
-        src="https://github-readme-stats.vercel.app/api?username=LiDingyiii&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=FFFFF&theme=dark" />
+        src="https://github-readme-stats.vercel.app/api?username=LiDingyiii&hide_title=true&hide_border=true&show_icons=true&text_color=FFF&icon_color=FFFFF&theme=radical" />
     <img style="width: 55% !important;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiDingyiii&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=FFFFF&theme=dark" />
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiDingyiii&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=FFF&icon_color=FFFFFF&theme=radical" />
 </div>
 
 
