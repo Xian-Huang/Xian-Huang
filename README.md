@@ -1,7 +1,7 @@
 <div align="center"> 
-    <img style="width: 50% !important;"
+    <img style="width: 55% !important;"
         src="https://github-readme-stats.vercel.app/api?username=LiDingyiii&hide_title=true&hide_border=true&show_icons=true&icon_color=FFFFF&theme=radical" />
-    <img style="width: 48% !important;"
+    <img style="width: 43% !important;"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiDingyiii&hide_title=true&hide_border=true&layout=compact&langs_count=8&icon_color=FFFFFF&theme=radical" />
 </div>
 
